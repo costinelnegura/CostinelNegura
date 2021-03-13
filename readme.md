@@ -1,6 +1,6 @@
 ### Table of Contents
 
-1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura/new/main#developing-an-android-app-using-firebase-as-a-database)
+1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#developing-an-android-app-using-firebase-as-a-database)
 
 # Developing an android app using Firebase as a database
 
