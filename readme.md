@@ -1,4 +1,4 @@
-### Projects under developement
+### Projects under development
 
 1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#developing-an-android-app-using-firebase-as-a-database)
 
