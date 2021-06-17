@@ -12,6 +12,9 @@ The language it is developed in is Java.
 
 [**Visit the project**](https://github.com/costinelnegura/For-tourists-by-tourists)
 
+
+
+
 2. [Workshop](https://github.com/costinelnegura/CostinelNegura#a-java-based-web-application-using-spring-frameworks-as-back-end)
 
 # A Java based web application using Spring Frameworks as back-end
@@ -20,5 +23,7 @@ The web application is intended for companies which repair cars as have as their
 It is backed by a mySQL database that stores customer, vehicle, claim, images and estimate data to ensure the company's activity as smooth as possible.
 
 ![image](https://firebasestorage.googleapis.com/v0/b/for-tourists-by-tourists-2e3f4.appspot.com/o/Workshop%2Fcapture1.png?alt=media&token=78a70e62-54d5-4e95-ba59-665357215fed)
+
+![image](https://firebasestorage.googleapis.com/v0/b/for-tourists-by-tourists-2e3f4.appspot.com/o/Workshop%2Fcapture2.png?alt=media&token=1f75437a-657a-4f92-95eb-cb99e29c3cbe)
 
 [**Visit the project**](https://github.com/costinelnegura/Workshop)
