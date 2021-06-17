@@ -18,8 +18,8 @@ The language it is developed in is Java.
 
 # Workshop | A Java based web application using Spring Frameworks as back-end
 
-The web application is intended for companies which repair cars as have as their main activity.
-It is backed by a mySQL database that stores customer, vehicle, claim, images and estimate data to ensure the company's activity as smooth as possible.
+The web application is intended for companies which repair cars as their main activity.
+It is backed by a mySQL database that stores customer, vehicle, claim, images and estimate data to ensure that the company's activity is as smooth as possible.
 
 ![image](https://firebasestorage.googleapis.com/v0/b/for-tourists-by-tourists-2e3f4.appspot.com/o/Workshop%2Fcapture1.png?alt=media&token=78a70e62-54d5-4e95-ba59-665357215fed)
 
