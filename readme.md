@@ -3,8 +3,7 @@
 1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#an-android-app-using-firebase-as-a-database)
 2. [Workshop](https://github.com/costinelnegura/CostinelNegura#a-java-based-web-application-using-spring-frameworks-as-back-end)
 
-# For tourists by tourists
-# An android app using Firebase as a database
+# For tourists by tourists | An android app using Firebase as a database
 
 The app is intended to be used by tourists who are planning to visit London and wish to see its many beautiful places.
 The entire database is created by the users who are discovering new places, and it is backed by Firebase.
@@ -14,8 +13,7 @@ The language it is developed in is Java.
 
 [**Visit the project**](https://github.com/costinelnegura/For-tourists-by-tourists)
 
-# Workshop
-# A Java based web application using Spring Frameworks as back-end
+# Workshop | A Java based web application using Spring Frameworks as back-end
 
 The web application is intended for companies which repair cars as have as their main activity.
 It is backed by a mySQL database that stores customer, vehicle, claim, images and estimate data to ensure the company's activity as smooth as possible.
