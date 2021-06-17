@@ -1,7 +1,9 @@
 ### Projects under development
 
 1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#an-android-app-using-firebase-as-a-database)
+2. [Workshop](https://github.com/costinelnegura/CostinelNegura#a-java-based-web-application-using-spring-frameworks-as-back-end)
 
+# For tourists by tourists
 # An android app using Firebase as a database
 
 The app is intended to be used by tourists who are planning to visit London and wish to see its many beautiful places.
@@ -12,11 +14,7 @@ The language it is developed in is Java.
 
 [**Visit the project**](https://github.com/costinelnegura/For-tourists-by-tourists)
 
-
-
-
-2. [Workshop](https://github.com/costinelnegura/CostinelNegura#a-java-based-web-application-using-spring-frameworks-as-back-end)
-
+# Workshop
 # A Java based web application using Spring Frameworks as back-end
 
 The web application is intended for companies which repair cars as have as their main activity.
