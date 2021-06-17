@@ -1,7 +1,7 @@
 ### Projects under development
 
-1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#an-android-app-using-firebase-as-a-database)
-2. [Workshop](https://github.com/costinelnegura/CostinelNegura#a-java-based-web-application-using-spring-frameworks-as-back-end)
+1. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#for-tourists-by-tourists-|-an-android-app-using-firebase-as-a-database)
+2. [Workshop](https://github.com/costinelnegura/CostinelNegura#workshop-|-a-java-based-web-application-using-spring-frameworks-as-back-end)
 
 # For tourists by tourists | An android app using Firebase as a database
 
