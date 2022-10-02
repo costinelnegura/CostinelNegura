@@ -1,14 +1,14 @@
 ### Projects under development
 
-1. [Notion Get Page API](https://github.com/costinelnegura/Notion-Get-Page-API)
+1. [Notion Get Page API](https://github.com/costinelnegura/CostinelNegura#notion-get-page-api--api-developed-in-java-that-retrieves-pages-from-a-notion-database)
 2. [Workshop](https://github.com/costinelnegura/CostinelNegura#workshop--a-java-based-web-application-using-spring-frameworks-as-back-end)
 3. [For tourists by tourists](https://github.com/costinelnegura/CostinelNegura#for-tourists-by-tourists--an-android-app-using-firebase-as-a-database)
 
-# Notion Get Page API
+# Notion Get Page API | API developed in Java that retrieves pages from a Notion database.
 
-## API developed in Java that retrieves pages from a Notion database.
+The retrieved pages are emails that were imported from Outlook.
 
-### The retrieved pages are emails that were imported from Outlook.
+[**Visit the project**](https://github.com/costinelnegura/Notion-Get-Page-API)
 
 
 
